@@ -16,4 +16,5 @@ the video not inside
 
 ## Reference 
 *1.(https://github.com/Trevor-FanshaweC/GOT_Build_Summer2019.git)
-*2.The  video control code by the (https://www.quackit.com/html/codes/html_video_codes.cfm)
+<br>
+*2.The video control code by the (https://www.quackit.com/html/codes/html_video_codes.cfm)
