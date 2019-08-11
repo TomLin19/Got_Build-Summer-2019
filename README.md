@@ -2,7 +2,7 @@
 Video, animation and JavaScript
 
 ## Description
-set the video  control by the JS to control the video play, stop and volume. The different lighting boxs as the video box.
+set the video  control by the JS to control the video play, stop and volume.Use the lighting box for the video.
 ## Getting Started
 
 ### Dependencies
